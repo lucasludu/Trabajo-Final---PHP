@@ -1,0 +1,16 @@
+[
+    {
+        "studentId": 2,
+        "careerId": null,
+        "firstName": "Damian",
+        "lastName": "Ancheluchi",
+        "dni": "3446165464",
+        "fileNumber": "42456464",
+        "gender": "Male",
+        "birthDate": "1990-10-05",
+        "email": "anchelo@gmail.com",
+        "phoneNumber": "1546545646",
+        "active": "active",
+        "profile": "Admin"
+    }
+]

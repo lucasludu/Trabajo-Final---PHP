@@ -1,0 +1,20 @@
+[
+    {
+        "companyId": "4",
+        "cuit": "30-71434680-2",
+        "companyName": "Globant",
+        "companyCity": "Mar Del Plata",
+        "companyDescription": "Tecnologia de genga",
+        "companyEmail": "globant@gmail.com",
+        "companyPhoneNumber": "1564564561"
+    },
+    {
+        "companyId": 5,
+        "cuit": "30-12245212-2",
+        "companyName": "Los Garcia",
+        "companyCity": "Mar Del Plata",
+        "companyDescription": "Parrilla",
+        "companyEmail": "genga@gmail.com",
+        "companyPhoneNumber": "1564654564"
+    }
+]
